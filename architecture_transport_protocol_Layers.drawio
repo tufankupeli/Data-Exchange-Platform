@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2023-10-04T05:54:23.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="eU-K8oGzeWBSaH6JywbZ" version="22.0.0" type="device">
+  <diagram name="Page-1" id="RcsFwqiE_mqMil7ZwmxQ">
+    <mxGraphModel dx="183" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6tRhkselshd9M_Zx6MNm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="220" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="880" y="110" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFAXQZW3_Cc163_eQy1-20" value="Authentication Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="890" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-1" value="Payload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="890" y="210" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-2" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="890" y="260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-4" value="Application Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-6" value="Transport Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="165" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-11" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="225" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-12" value="Payload (REST/SOAP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-13" value="Request Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="84" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="80" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="120" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-16" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-17" value="Payload (REST/SOAP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="124" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-18" value="Response Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="84" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-19" value="OCSP Response" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;sketch=1;curveFitting=1;jiggle=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="114" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-20" value="Fail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-21" value="Layers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-22" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tRhkselshd9M_Zx6MNm-23" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
